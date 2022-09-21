@@ -1,0 +1,15 @@
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\bin\Debug\net6.0\Questao4.exe
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\bin\Debug\net6.0\Questao4.deps.json
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\bin\Debug\net6.0\Questao4.runtimeconfig.json
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\bin\Debug\net6.0\Questao4.dll
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\bin\Debug\net6.0\Questao4.pdb
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\Questao4.csproj.AssemblyReference.cache
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\Questao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\Questao4.AssemblyInfoInputs.cache
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\Questao4.AssemblyInfo.cs
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\Questao4.csproj.CoreCompileInputs.cache
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\Questao4.dll
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\refint\Questao4.dll
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\Questao4.pdb
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\Questao4.genruntimeconfig.cache
+C:\Users\Ovatsug\source\repos\TesteTg\Questao4\obj\Debug\net6.0\ref\Questao4.dll
