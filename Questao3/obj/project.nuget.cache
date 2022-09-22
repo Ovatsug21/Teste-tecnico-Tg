@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5sM5GxE9zN2PPblMB36KQoD4dgJPhvfEG7ADQ1B34cHRyVsKGtVgfZTqmgiEILrMWBF0Mbe1kaZAGVmNV1kl0g==",
+  "dgSpecHash": "c1RdoXYanMQpo+ts1muOjTLiXVJMEOwyndsTZNM9YZCCdHbZUuVE7beOkpaZ1abKaNhNBI2qnHUd4LnxILXn8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ovatsug\\source\\repos\\TesteTG\\Questao3\\Questao3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ovatsug\\source\\repos\\TesteTg\\Questao3\\Questao3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ovatsug\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

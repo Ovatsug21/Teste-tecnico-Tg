@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ovatsug\\source\\repos\\TesteTG\\Questao3\\Questao3.csproj": {}
+    "C:\\Users\\Ovatsug\\source\\repos\\TesteTg\\Questao3\\Questao3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ovatsug\\source\\repos\\TesteTG\\Questao3\\Questao3.csproj": {
+    "C:\\Users\\Ovatsug\\source\\repos\\TesteTg\\Questao3\\Questao3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ovatsug\\source\\repos\\TesteTG\\Questao3\\Questao3.csproj",
+        "projectUniqueName": "C:\\Users\\Ovatsug\\source\\repos\\TesteTg\\Questao3\\Questao3.csproj",
         "projectName": "Questao3",
-        "projectPath": "C:\\Users\\Ovatsug\\source\\repos\\TesteTG\\Questao3\\Questao3.csproj",
+        "projectPath": "C:\\Users\\Ovatsug\\source\\repos\\TesteTg\\Questao3\\Questao3.csproj",
         "packagesPath": "C:\\Users\\Ovatsug\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ovatsug\\source\\repos\\TesteTG\\Questao3\\obj\\",
+        "outputPath": "C:\\Users\\Ovatsug\\source\\repos\\TesteTg\\Questao3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ovatsug\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

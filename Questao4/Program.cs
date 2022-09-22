@@ -2,9 +2,8 @@
 {
     public static void Main()
     {
-        List<Estado> estados;
+        List<Estado> estados = new List<Estado>();
 
-        estados = new List<Estado>();
         estados.Add(new Estado("SP", 67836.43));
         estados.Add(new Estado("RJ", 36678.66));
         estados.Add(new Estado("MG", 29229.88));

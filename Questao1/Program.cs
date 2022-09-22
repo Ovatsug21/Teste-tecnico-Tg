@@ -1,5 +1,5 @@
 ﻿// Resp: 91
-class Questao1
+public class Questao1
 {
     public static void Main()
     {
@@ -11,7 +11,7 @@ class Questao1
             soma = soma + k;
         }
 
-        Console.WriteLine("O Valor da variável soma é: " + soma);
+        Console.WriteLine($"O Valor da variável soma é: {soma}");
     }
 }
 
