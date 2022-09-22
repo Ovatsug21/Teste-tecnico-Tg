@@ -23,11 +23,11 @@
 
             if (soma == num)
             {
-                Console.WriteLine($"\n O número {num} pertence a sequência de fibonacci.");
+                Console.WriteLine($"\n\n O número {num} pertence a sequência de fibonacci.");
             }
             else
             {
-                Console.WriteLine($"\n O número {num} NÃO pertence a sequência de fibonacci.");
+                Console.WriteLine($"\n\n O número {num} NÃO pertence a sequência de fibonacci.");
             }
 
         }
@@ -35,5 +35,8 @@
         {
             Console.WriteLine(e.Message);
         }
+
+        Console.ReadKey();
+
     }
 }

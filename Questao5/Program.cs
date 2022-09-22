@@ -16,5 +16,7 @@ public class Questao5
             i--;
         }
         Console.WriteLine($"\nO texto com os caracteres invertidos ficou assim: {sb}");
+
+        Console.ReadKey();
     }
 }
