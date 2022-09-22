@@ -10,13 +10,7 @@ public class Questao3
         var json = File.ReadAllText(AppDomain.CurrentDomain.BaseDirectory + @"\dados.json");
         var dados = JsonConvert.DeserializeObject<List<Dia>>(json);
 
-        List<Dia> dias = new List<Dia>();
-
-/*      dias.Add(new Dia(1, 67836.43));
-        dias.Add(new Dia(2, 36678.66));
-        dias.Add(new Dia(3, 0.0));
-        dias.Add(new Dia(4, 20000.40));
-        dias.Add(new Dia(5, 50000.50));*/
+        List<Dia> dias = new List<Dia>(dados);
 
         //Percorrendo os valores
         foreach (Dia dia in dias)
@@ -50,7 +44,6 @@ public class Questao3
                 }
             }
 
-            Console.WriteLine($"Dia {dia.Num}, Valor {dia.Valor}");
         }
 
         //Calculo da média
@@ -73,7 +66,10 @@ public class Questao3
 
     public class Dia
     {
+        [JsonProperty("dia")]
         public int Num { get; set; }
+
+        [JsonProperty("valor")]
         public double Valor { get; set; }
 
         public Dia(int num, double valor)
